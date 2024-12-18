@@ -1,4 +1,5 @@
 # New Project
-The project was created from local machine
+The project was created from local machine.
+
 
 
